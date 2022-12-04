@@ -6,4 +6,4 @@
 ### در صورت علاقه به همکاری با منشور ایران به [صفحه گیت‌هاب منشور ایران](https://github.com/theirancharter/The_Iran_Charter) مراجعه کنید.
 ### همچنین می توانید برای اطلاعات بیشتر با ایمیل منشور ایران(theirancharter@gmail.com) مکاتبه کنید.
 ![نسخه سوم منشور ایران](https://raw.githubusercontent.com/theirancharter/The_Iran_Charter/main/%D9%85%D9%86%D8%B4%D9%88%D8%B1%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86.jpg)
-### [دانلود فایل pdf نسخه سوم منشور ایران](https://github.com/theirancharter/The_Iran_Charter/blob/main/%D9%85%D9%86%D8%B4%D9%88%D8%B1%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86.pdf)
+### [دریافت آخرین نسخه منشور ایران به صورت فایل PDF](https://github.com/theirancharter/The_Iran_Charter/blob/main/%D9%85%D9%86%D8%B4%D9%88%D8%B1%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86.pdf)
